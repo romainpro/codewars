@@ -3,4 +3,4 @@ function removeChar(str){
    
    };
    
-   
+//best result    removeChar = str => str.slice(1,-1)
