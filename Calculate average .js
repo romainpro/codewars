@@ -1,5 +1,5 @@
 function findAverage(array) {
-    if(array ===[]){
+    if(array.length===0){
       return 0;
     }else{
     let length = array.length
